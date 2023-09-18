@@ -1,0 +1,28 @@
+.header-box {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: auto;
+  justify-content: center;
+  margin-top: 90px;
+  border: 2px solid hotpink;
+  align-items: center;
+  row-gap: 10px;
+}
+hr {
+  margin: 10px auto;
+  width: 80%;
+}
+.input-search {
+  width: 70%;
+  height: 28px;
+  font-size: 1.1rem;
+  margin-left: 15%;
+  margin-right: 15%;
+  background: #3c3e3e;
+  border: none;
+  outline: 1px solid grey;
+  padding: 10px;
+  border-radius: 3px;
+  color: white;
+}

@@ -1,0 +1,11 @@
+.profile {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 1px solid blue;
+  width: 250px;
+  padding: 10px;
+  background: #3c3e3e;
+  height: 250px;
+}
